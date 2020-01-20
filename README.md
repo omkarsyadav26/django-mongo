@@ -1,10 +1,15 @@
 # django-mongo
 mkdir django-mongo
+
 cd django-mongo
+
 mkdir mongo-database
 
 ---------------------------------
 django-mongo --> is the main project folder
+
+mongo-database --> is the docker volume for database container
+
 ---------------------------------
 vim .dockerignore
 ---------------------------------
